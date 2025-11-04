@@ -19,7 +19,8 @@ I built this program during part of my Computer Science class (Masters in Financ
     
     we test residue correlation (Bartlett test) > we reject the H0 that residues are uncorrelated > we lack some parameters to explain common variations of the returns
     
-    ![image.png](attachment:8d799bd3-4409-429c-b841-cb8fe3c38552:image.png)
+    <img width="834" height="837" alt="image" src="https://github.com/user-attachments/assets/4907c59a-f18d-4773-af90-b76b65b775cb" />
+
     
 - part 2 : Technical Analysis strategies implementation
     
@@ -27,9 +28,11 @@ I built this program during part of my Computer Science class (Masters in Financ
     
     we backtest them on numerous stocks (sharpe ratio, VaR, comparison with the buy and hold strategy, graphs, signals) and provide a recap document for every stock (it works on every yfinance ticker)
     
-    ![image.png](attachment:16fd0629-d439-40c5-a910-41ade086a74e:image.png)
+   <img width="1608" height="1125" alt="image" src="https://github.com/user-attachments/assets/6d9b55d8-19ee-4d2d-babd-5b95e8ba287c" />
+
     
-    ![image.png](attachment:5f23063b-275d-42a6-a7ea-a866d118afad:image.png)
+   <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/fe0c56c6-a7d3-4e02-be43-f72515633eb7" />
+
 
   Bollinger bands and mean reversion strategies generally exhibit negative returns with upward trending financial assets.
 

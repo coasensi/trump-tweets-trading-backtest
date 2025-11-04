@@ -4,7 +4,7 @@ I built this program during part of my Computer Science class (Masters in Financ
 
 1st part : Fama-French model ols estimation and residual correlation study
 
-2nd part: Multiple trading strategy implementation 
+2nd part: Multiple trading strategy implementation (including trump tweets sentiment analysis using VaderSentiment)
 
 > SMA
 > Momentum

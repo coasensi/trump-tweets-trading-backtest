@@ -33,7 +33,6 @@ I built this program during part of my Computer Science class (Masters in Financ
     
    <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/fe0c56c6-a7d3-4e02-be43-f72515633eb7" />
 
-
   Bollinger bands and mean reversion strategies generally exhibit negative returns with upward trending financial assets.
 
 Among the four tested, the momentum trading strategy is the most likely to overperform the buy and hold strategy.

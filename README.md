@@ -5,7 +5,7 @@ I built this program during part of my Computer Science class (Masters in Financ
 - part 1 : Fama - French Model estimation using multiple linear regression
   
     3 initial factors (1993):
-    
+  
     - market return - risk free return
     - SML: company size (historically small stocks outperform bigger ones on risk-adjusted returns)
     - HML: Book-to-Market ratio (historically higher B/M outperform)
